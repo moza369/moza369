@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science student at **FST Errachidia**  
+- 🎓 Software engineer student at **FST Errachidia**  
 - 🔒 Passionate about **Offensive Security, Bug Bounties, and Penetration Testing**  
 - 🛠️ I design and build automation tools for recon, exploitation, and reporting  
 - 🌱 Currently learning: **Application Security (AppSec), Active Directory (AD) pentesting (starting), mobile pentesting (starting), and Django**  
