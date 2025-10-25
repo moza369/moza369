@@ -47,11 +47,11 @@
 ## 🔑 Security Arsenal (Web-Focused)
 
 **Web & API Security**
-- OWASP Top 10: XSS, SQLi, CSRF, IDOR, Broken Authentication, Misconfigurations, Sensitive Data Exposure  
-- API testing: JWT/bearer flaws, auth bypasses, parameter tampering, rate-limit & logic abuses  
-- Server-side vulnerabilities: SSRF, deserialization, template injection  
-- Auth/session attacks: brute force, session fixation, cookie misconfig, MFA bypass attempts  
-- Attack automation with Python scripts & safe PoCs  
+- OWASP Top 10: XSS, SQLi, CSRF, IDOR, Broken Authentication, Misconfigurations, Sensitive Data Exposure  ...
+- API testing: JWT/bearer flaws, auth bypasses, rate-limit & logic abuses  ...
+- Server-side vulnerabilities: SSRF, template injection ...
+- Auth/session attacks: brute force, session fixation, cookie misconfig, MFA bypass attempts  ...
+- Attack automation with Python scripts & safe PoCs  ...
 
 **Manual + Automated Workflows**
 - Combining **DAST** with manual verification  
@@ -59,10 +59,9 @@
 - Fuzzing for web inputs & APIs  
 
 **Web Tooling & Techniques**
-- Proxy-based testing (Burp/ZAP/mitmproxy)  
+- Proxy-based testing (Burp/Caido)  
 - Authenticated testing + headless browser automation  
 - TLS/cert checks, CSP & header validation  
-- CI integration for regression prevention  
 
 **Custom Tooling & Reporting**
 - Python tools for recon & structured outputs  
