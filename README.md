@@ -1,11 +1,12 @@
 <h1 align="center">👋 Mohamed Zahir | Software Engineer & Aspiring Penetration Tester</h1>
 
-<h3 align="center">Focused on Offensive Security 🛡️ | Tool Builder | FST Errachidia</h3>
+<h3 align="center">Focused on Offensive Security 🛡️ | Tool Builder | FP Nador</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Software engineer student at **FST Errachidia**  
+- 🎓 Master in AI & Emerging Technologies student at FP Nador
+- 🛠️ Software Engineer (FST Errachidia Alumnus)
 - 🔒 Passionate about **Offensive Security, Bug Bounties, and Penetration Testing**  
 - 🛠️ I design and build automation tools for recon, exploitation, and reporting  
 - 🌱 Currently learning: **Application Security (AppSec), Active Directory (AD) pentesting (starting), mobile pentesting (starting), and Django**  
