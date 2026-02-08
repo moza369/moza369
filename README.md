@@ -1,4 +1,4 @@
-<h1 align="center">👋 Mohamed Zahir | Software Engineer & Aspiring Penetration Tester</h1>
+<h1 align="center">👋 Mohamed Zahir | AI Student & Aspiring Penetration Tester</h1>
 
 <h3 align="center">Focused on Offensive Security 🛡️ | Tool Builder | FP Nador</h3>
 
